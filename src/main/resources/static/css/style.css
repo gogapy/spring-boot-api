@@ -1,0 +1,16 @@
+.hv-link {
+    color: black;
+    transition: all .3s ease-in-out;
+}
+
+.hv-link:hover {
+    color: #3b986d;
+}
+
+.hv-volver {
+    transition: all .3s ease-in-out;
+}
+
+.hv-volver:hover {
+    transform: scale(1.1);
+}
